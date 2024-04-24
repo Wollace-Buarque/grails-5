@@ -1,4 +1,6 @@
 * {
+    margin: 0;
+
     box-sizing: border-box;
 }
 
@@ -8,9 +10,7 @@ body {
     justify-content: center;
     align-items: center;
 
-    min-height: 100vh;
-    margin: 0;
-
+    height: 100vh;
     padding: 1rem;
 
     color: #0F0F0F;
@@ -116,9 +116,6 @@ body {
     .container {
         width: 100%;
         max-width: 768px;
-
-        gap: 1.5rem;
-        flex-direction: column;
 
         form {
             input {

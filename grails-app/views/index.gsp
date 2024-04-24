@@ -10,7 +10,7 @@
 
 <main class="container">
     <div>
-        <h1 class="title">CAdastro</h1>
+        <h1 class="title">Cadastro</h1>
 
         <p>Para usar o serviço, preencha suas informações e um CEP no formato de 8 dígitos deve ser fornecido.</p>
     </div>
